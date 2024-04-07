@@ -7,3 +7,4 @@ Nas primeiras aulas ensina como configurar o ambiente de desenvolvimento usando 
 # Tópicos do curso
 
 * 🎲 [Tipos de dados](./0-tipos-de-dados)
+* 🔍 [Modo interativo](./1-modo-interativo)
