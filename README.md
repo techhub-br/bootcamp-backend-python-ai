@@ -4,12 +4,22 @@
 Bootcamp é um programa intensivo de programação que une teoria e prática, através de aulas e projetos. A [DIO](https://www.dio.me/) é a plataforma responsável por esse conteúdo, e contém parceria oficial da empresa Vivo.
 
 ## Sumário
-### 1. 👀 | [Conhecendo a linguagem Python](./01-conhecendo-a-linguagem) 
+<details>
+  
+<summary> 1. 👀 | Conhecendo a linguagem Python </summary>
+
 * 🎲 [Tipos de dados](./01-conhecendo-a-linguagem/0-tipos-de-dados)
+* 🔍 [Modo interativo](./01/conhecendo-a-linguagem/1-modo-interativo)
+* 🐍 [Variáveis e constantes](./01/conhecendo-a-linguagem/2-variaveis-e-constantes)
+* ↪️  [Conversão de tipos](./01/conhecendo-a-linguagem/3-conversao-de-tipos)
+* 💻 [Funções de entrada e saída](./01/conhecendo-a-linguagem/4-funcoes-entrada-e-saida)
+
+</details>
+
 
 
 <br>
-(...)
+
 
 ---
 ## Como posso contribuir pra esse repositório?
